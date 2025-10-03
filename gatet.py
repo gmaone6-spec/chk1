@@ -1,6 +1,5 @@
 import requests,re
 import random
-from proxy import reqproxy, make_request
 def Tele(ccx):
 	#proxy_str = "142.111.48.253:7030:czpweuvn:daq58o6lsgdp"
 	#session, ip = reqproxy(proxy_str)
